@@ -1,0 +1,9 @@
+{
+	"name": "joavelar-adf-canary-gitMode",
+	"location": "eastus2euap",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5c0a586e-889a-434c-a18e-c604b8c454bd",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
